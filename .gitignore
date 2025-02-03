@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+/.pnp
+.pnp.js
+
+# Build
+/build/
+/dist/
+/.next/
+
+# Dependencies
+package-lock.json
+yarn.lock
+
+# IDE and Editors
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Git
+.git/
